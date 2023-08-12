@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Riyadh"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [46.609344, 24.46791],
+              [47.165512, 24.281515],
+              [46.745438, 24.079556],
+              [46.609344, 24.46791]
+            ]
+    
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Makkah"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [39.697358, 21.389654],
+              [39.581684, 20.79965],
+              [40.411196, 20.837117],
+              [40.514406, 21.419475],
+              [39.697358, 21.389654]
+            ]
+            
+          ]
+        }
+      }
+     
+    ]
+  }
+  
